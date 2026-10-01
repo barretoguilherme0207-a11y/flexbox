@@ -1,0 +1,36 @@
+
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    background: purple;
+    color: white;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 150px;
+    position: relative;
+    align-items: center;
+
+    
+
+
+}
+
+.nav-links{
+    display: flex;
+    margin: 0 auto;
+   gap: 10px;
+}
+
+.menu a{
+    color: aliceblue;
+}
+
+.logo{
+    position: absolute;
+    height: 300px;
+    width: auto;
+
+
+}
+
